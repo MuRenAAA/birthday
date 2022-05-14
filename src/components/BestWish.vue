@@ -14,7 +14,7 @@ withDefaults(defineProps<{
   name: string
   msg: string
 }>(), {
-  name: 'Liusixin',
+  name: 'LiuSX',
   msg: 'Happy Birthday!',
 })
 </script>
